@@ -94,12 +94,12 @@ This screenshot shows the messages on both client and server side of the applica
 This screenshot shows the log files that are saved on server side.
 - last.txt (last sent message):
 <img width="674" height="251" alt="{A0FDD2B9-ECEF-4301-B701-758F0BE60C47}" src="https://github.com/user-attachments/assets/0c05063c-d81b-4b0e-ab54-2e4c58a80bf9" />
+
 - log.txt (whole communication):
 <img width="675" height="257" alt="{7BA45B1E-30EF-4177-A1BF-9859D99CD430}" src="https://github.com/user-attachments/assets/67645cb6-75ed-4ef7-8a32-9c36a818bf4d" />
 
 ## Project Information
-- Developed: 2023  
-- Improved: 2026  
+- Developed: 2026
 - Type: Academic Project
 
 ## Author
