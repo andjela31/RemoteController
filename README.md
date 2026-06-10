@@ -49,6 +49,7 @@ git clone <repository-url>
 - Click Open Project
 - Select the RemoteController_Client folder
 - Switch platform to Android in Build Settings
+- You can run it directly in the Unity Editor by pressing Play, or
 - Build and install the APK on your Android device
   
 **4. Ensure both devices are connected to the same network (Wi-Fi or LAN), or configure port forwarding if running on different networks.**
