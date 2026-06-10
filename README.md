@@ -34,6 +34,7 @@ A client-server system developed in Unity, featuring real-time communication bet
 ```bash
 git clone <repository-url>
 ```
+
 **2. Open the RemoteController_Server project in Unity (Windows PC):**
 - Launch Unity Hub
 - Click Open Project
@@ -41,15 +42,20 @@ git clone <repository-url>
 - Open the scene for the server
 - Make sure the server is listening on the correct IP address and port
 - Build and install the .exe on your Windows device
+- 
 **3. Build or run the RemoteController_Client project for Android:**
 - Open Unity Hub
 - Click Open Project
 - Select the RemoteController_Client folder
 - Switch platform to Android in Build Settings
 - Build and install the APK on your Android device
+- 
 **4. Ensure both devices are connected to the same network (Wi-Fi or LAN), or configure port forwarding if running on different networks.**
+  
 **5. Start the server first, then launch the client application.**
+
 **6. In the client app, enter the server’s IP address and port number and establish the connection.**
+
 **7. Once connected, you can start sending control commands from the Android client to the Windows server in real time.**
 
 ## Screenshots
