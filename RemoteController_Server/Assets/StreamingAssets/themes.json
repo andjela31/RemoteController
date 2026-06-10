@@ -1,0 +1,65 @@
+{
+    "activeThemeId": "original",
+    "themes": [
+        {
+            "id": "original",
+            "messageR": 1.0,
+            "messageG": 1.0,
+            "messageB": 1.0,
+            "messageA": 1.0,
+            "backgroundR": 1.0,
+            "backgroundG": 1.0,
+            "backgroundB": 1.0,
+            "backgroundA": 1.0,
+            "textR": 0.0,
+            "textG": 0.0,
+            "textB": 0.0,
+            "textA": 1.0
+        },
+        {
+            "id": "green",
+            "messageR": 0.8352941274642944,
+            "messageG": 1.0,
+            "messageB": 0.8352941274642944,
+            "messageA": 1.0,
+            "backgroundR": 0.8666666746139526,
+            "backgroundG": 1.0,
+            "backgroundB": 0.8666666746139526,
+            "backgroundA": 1.0,
+            "textR": 0.0,
+            "textG": 0.0,
+            "textB": 0.0,
+            "textA": 1.0
+        },
+        {
+            "id": "blue",
+            "messageR": 0.8078431487083435,
+            "messageG": 0.9764705896377564,
+            "messageB": 0.9764705896377564,
+            "messageA": 1.0,
+            "backgroundR": 0.8549019694328308,
+            "backgroundG": 0.9764705896377564,
+            "backgroundB": 0.9764705896377564,
+            "backgroundA": 1.0,
+            "textR": 0.0,
+            "textG": 0.0,
+            "textB": 0.0,
+            "textA": 1.0
+        },
+        {
+            "id": "dark",
+            "messageR": 0.4000000059604645,
+            "messageG": 0.4000000059604645,
+            "messageB": 0.4000000059604645,
+            "messageA": 1.0,
+            "backgroundR": 0.2980000078678131,
+            "backgroundG": 0.2980000078678131,
+            "backgroundB": 0.2980000078678131,
+            "backgroundA": 1.0,
+            "textR": 1.0,
+            "textG": 1.0,
+            "textB": 1.0,
+            "textA": 1.0
+        }
+    ]
+}
