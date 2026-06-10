@@ -35,13 +35,14 @@ A client-server system developed in Unity, featuring real-time communication bet
 git clone <repository-url>
 ```
 
-**2. Open the RemoteController_Server project in Unity (Windows PC):**
+**2. Build or run the RemoteController_Server project in Unity (Windows PC):**
 - Launch Unity Hub
 - Click Open Project
 - Select the RemoteController_Server folder
 - Open the scene for the server
 - Make sure the server is listening on the correct IP address and port
-- Build and install the .exe on your Windows device
+- You can run it directly in the Unity Editor by pressing Play, or
+- Build the project as a Windows Standalone (.exe) via Build Settings and run the executable
   
 **3. Build or run the RemoteController_Client project for Android:**
 - Open Unity Hub
