@@ -71,7 +71,7 @@ This screenshot shows the user interface when the application is first launched,
 - Input field ready for typing
 - Initial connection state
 - Client:
-<img src="screenshots/client_initial.jpeg" width="350" height="920"/>
+<img src="screenshots/client_initial.jpeg" width="350" height="820"/>
 
 - Server:
 <img src="screenshots/server_initial.png" width="650" height="920"/>
