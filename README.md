@@ -84,13 +84,13 @@ This screenshot shows the application menu that allows the client to connect to 
 - Port input
 - Connect button
 - Connection status indicator
-<img src="screenshots/client_connecting.jpeg" width="350" height="920"/>
+<img src="screenshots/client_connecting.jpeg" width="330" height="680"/>
 
 ### Message Exchange
 This screenshot shows the exchanged messages on both the client and server sides of the application.
 
 - Client:
-<img src="screenshots/client_messages.jpeg" width="350" height="920"/>
+<img src="screenshots/client_messages.jpeg" width="330" height="680"/>
 
 - Server:
 <img src="screenshots/server_messages.png" width="650" height="920"/>
