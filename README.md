@@ -71,7 +71,8 @@ This screenshot shows the user interface when the application is first launched,
 - Input field ready for typing
 - Initial connection state
 - Client:
-<img width="580" height="1900" alt="WhatsApp Image 2026-06-10 at 23 22 05" src="https://github.com/user-attachments/assets/e0ceac78-371a-4010-aa65-60283c4adb5b" />
+<img width="580" height="1400" alt="WhatsApp Image 2026-06-10 at 23 22 05" src="https://github.com/user-attachments/assets/e0ceac78-371a-4010-aa65-60283c4adb5b" />
+
 - Server:
 <img width="1920" height="1020" alt="{B4A76C7A-BF54-475D-BAFB-D16D5F7D0953}" src="https://github.com/user-attachments/assets/00b3ad7a-2d28-43f8-ad3e-e272d1c02e97" />
 
