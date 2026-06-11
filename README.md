@@ -3,14 +3,14 @@ A client-server system developed in Unity, featuring real-time communication bet
 
 ## Features
 - Remote control of a Windows application from an Android device
-- Real-time client-server communication using socket programming
-- TCP socket-based networking
+- Real-time client-server communication using socket (TCP) programming
 - Connection management using IP address and port configuration
 - Sending control commands from client to server
 - Receiving and processing commands on the server
 - Connection status monitoring
 - User-friendly interfaces for both client and server applications
 - Synchronous communication model
+- Customizable user interface
 
 ## Technologies Used
 - Unity Engine (Client & Server applications)
@@ -78,7 +78,7 @@ This screenshot shows the user interface when the application is first launched,
 
 
 ### Connection Process
-This screenshot shows the application menu that alows client to connect to server.
+This screenshot shows the application menu that allows the client to connect to the server.
 
 - Ip address input
 - Port input
@@ -87,7 +87,7 @@ This screenshot shows the application menu that alows client to connect to serve
 <img width="480" height="1020" alt="WhatsApp Image 2026-06-10 at 23 32 25" src="https://github.com/user-attachments/assets/be11249f-f7da-4cf1-8112-3035837b5f7f" />
 
 ### Message Exchange
-This screenshot shows the messages on both client and server side of the application.
+This screenshot shows the exchanged messages on both the client and server sides of the application.
 
 - Client:
 <img width="480" height="1020" alt="WhatsApp Image 2026-06-10 at 23 32 29" src="https://github.com/user-attachments/assets/4b1a3e51-a452-4796-9b79-151ca7bdcd09" />
@@ -96,7 +96,8 @@ This screenshot shows the messages on both client and server side of the applica
 <img width="1920" height="1019" alt="{3AF973B8-3D10-46C8-A2C3-216386D8DAF2}" src="https://github.com/user-attachments/assets/134fc92b-7ce7-44e8-a6bb-f54a0512a15a" />
 
 ### Log Files
-This screenshot shows the log files that are saved on server side.
+This screenshot shows the log files stored on the server side.
+
 - last.txt (last sent message):
 <img width="674" height="251" alt="{A0FDD2B9-ECEF-4301-B701-758F0BE60C47}" src="https://github.com/user-attachments/assets/0c05063c-d81b-4b0e-ab54-2e4c58a80bf9" />
 
@@ -106,6 +107,7 @@ This screenshot shows the log files that are saved on server side.
 ## Project Information
 - Developed: 2026
 - Type: Academic Project
+- Platforms: Android (Client), Windows (Server)
 
 ## Author
 - Andjela Djordjevic
