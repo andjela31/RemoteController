@@ -74,7 +74,7 @@ This screenshot shows the user interface when the application is first launched,
 <img src="screenshots/client_initial.jpeg" width="350" height="920"/>
 
 - Server:
-<img src="screenshots/server_initial.png" width="350" height="920"/>
+<img src="screenshots/server_initial.png" width="650" height="920"/>
 
 
 ### Connection Process
