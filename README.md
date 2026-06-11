@@ -1,14 +1,16 @@
-# RemoteController2
+# RemoteController
 A client-server system developed in Unity, featuring real-time communication between client and server using socket programming for data exchange.
 
 ## Features
+- Remote control of a Windows application from an Android device
 - Real-time client-server communication using socket programming
-- Android client built in Unity for remote control functionality
-- Windows server application built in Unity for handling incoming connections
-- Sending and receiving control commands between devices
-- Low-latency message exchange over TCP connection
-- Support for multiple UI actions triggered remotely
-- Stable connection handling with basic connection status feedback
+- TCP socket-based networking
+- Connection management using IP address and port configuration
+- Sending control commands from client to server
+- Receiving and processing commands on the server
+- Connection status monitoring
+- User-friendly interfaces for both client and server applications
+- Synchronous communication model
 
 ## Technologies Used
 - Unity Engine (Client & Server applications)
@@ -35,22 +37,23 @@ A client-server system developed in Unity, featuring real-time communication bet
 git clone <repository-url>
 ```
 
-**2. Build or run the RemoteController_Server project in Unity (Windows PC):**
+**2. Run the RemoteController_Server application (Windows PC):**
 - Launch Unity Hub
-- Click Open Project
-- Select the RemoteController_Server folder
-- Open the scene for the server
-- Make sure the server is listening on the correct IP address and port
-- You can run it directly in the Unity Editor by pressing Play, or
-- Build the project as a Windows Standalone (.exe) via Build Settings and run the executable
+- Click **Open Project**
+- Select the `RemoteController_Server` folder
+- Open the server scene
+- Ensure the server is configured with the correct IP address and port
+- Either:
+  - Press **Play** to run the server in the Unity Editor, or
+  - Build the project as a **Windows Standalone (.exe)** via **Build Settings** and run the executable
   
-**3. Build or run the RemoteController_Client project for Android:**
-- Open Unity Hub
-- Click Open Project
-- Select the RemoteController_Client folder
-- Switch platform to Android in Build Settings
-- You can run it directly in the Unity Editor by pressing Play, or
-- Build and install the APK on your Android device
+**3. Run the RemoteController_Client application (Android):**
+- Launch Unity Hub
+- Click **Open Project**
+- Select the `RemoteController_Client` folder
+- Switch the platform to **Android** in **Build Settings**
+- Build the APK and install it on your Android device
+- Launch the application on the device
   
 **4. Ensure both devices are connected to the same network (Wi-Fi or LAN), or configure port forwarding if running on different networks.**
   
@@ -68,7 +71,7 @@ This screenshot shows the user interface when the application is first launched,
 - Input field ready for typing
 - Initial connection state
 - Client:
-<img width="1080" height="2400" alt="WhatsApp Image 2026-06-10 at 23 22 05" src="https://github.com/user-attachments/assets/e0ceac78-371a-4010-aa65-60283c4adb5b" />
+<img width="580" height="1900" alt="WhatsApp Image 2026-06-10 at 23 22 05" src="https://github.com/user-attachments/assets/e0ceac78-371a-4010-aa65-60283c4adb5b" />
 - Server:
 <img width="1920" height="1020" alt="{B4A76C7A-BF54-475D-BAFB-D16D5F7D0953}" src="https://github.com/user-attachments/assets/00b3ad7a-2d28-43f8-ad3e-e272d1c02e97" />
 
