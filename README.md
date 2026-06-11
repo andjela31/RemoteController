@@ -90,7 +90,7 @@ This screenshot shows the application menu that alows client to connect to serve
 This screenshot shows the messages on both client and server side of the application.
 
 - Client:
-<img width="720" height="1600" alt="WhatsApp Image 2026-06-10 at 23 32 29" src="https://github.com/user-attachments/assets/4b1a3e51-a452-4796-9b79-151ca7bdcd09" />
+<img width="480" height="1020" alt="WhatsApp Image 2026-06-10 at 23 32 29" src="https://github.com/user-attachments/assets/4b1a3e51-a452-4796-9b79-151ca7bdcd09" />
 
 - Server:
 <img width="1920" height="1019" alt="{3AF973B8-3D10-46C8-A2C3-216386D8DAF2}" src="https://github.com/user-attachments/assets/134fc92b-7ce7-44e8-a6bb-f54a0512a15a" />
