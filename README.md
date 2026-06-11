@@ -99,10 +99,10 @@ This screenshot shows the exchanged messages on both the client and server sides
 This screenshot shows the log files stored on the server side.
 
 - last.txt (last sent message):
-<img src="screenshots/last_txt.png" width="650" height="920"/>
+<img src="screenshots/last_txt.png" width="550" height="820"/>
 
 - log.txt (whole communication):
-<img src="screenshots/log_txt.png" width="650" height="920"/>
+<img src="screenshots/log_txt.png" width="550" height="820"/>
 
 ## Project Information
 - Developed: 2026
