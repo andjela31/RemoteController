@@ -71,10 +71,10 @@ This screenshot shows the user interface when the application is first launched,
 - Input field ready for typing
 - Initial connection state
 - Client:
-<img src="screenshots/client_initial.jpeg" width="350"/>
+<img src="screenshots/client_initial.jpeg" width="350" height="920"/>
 
 - Server:
-<img src="screenshots/server_initial.png" width="350"/>
+<img src="screenshots/server_initial.png" width="350" height="920"/>
 
 
 ### Connection Process
@@ -84,25 +84,25 @@ This screenshot shows the application menu that allows the client to connect to 
 - Port input
 - Connect button
 - Connection status indicator
-<img src="screenshots/client_connecting.jpeg" width="350"/>
+<img src="screenshots/client_connecting.jpeg" width="350" height="920"/>
 
 ### Message Exchange
 This screenshot shows the exchanged messages on both the client and server sides of the application.
 
 - Client:
-<img src="screenshots/client_messages.jpeg" width="350"/>
+<img src="screenshots/client_messages.jpeg" width="350" height="920"/>
 
 - Server:
-<img src="screenshots/server_messages.png" width="350"/>
+<img src="screenshots/server_messages.png" width="350" height="920"/>
 
 ### Log Files
 This screenshot shows the log files stored on the server side.
 
 - last.txt (last sent message):
-<img src="screenshots/last_txt.png" width="350"/>
+<img src="screenshots/last_txt.png" width="350" height="920"/>
 
 - log.txt (whole communication):
-<img src="screenshots/log_txt.png" width="350"/>
+<img src="screenshots/log_txt.png" width="350" height="920"/>
 
 ## Project Information
 - Developed: 2026
