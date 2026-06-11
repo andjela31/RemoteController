@@ -71,10 +71,10 @@ This screenshot shows the user interface when the application is first launched,
 - Input field ready for typing
 - Initial connection state
 - Client:
-<img width="480" height="1020" alt="WhatsApp Image 2026-06-10 at 23 22 05" src="https://github.com/user-attachments/assets/e0ceac78-371a-4010-aa65-60283c4adb5b" />
+<img src="screenshots/client_initial.jpeg" width="350"/>
 
 - Server:
-<img width="1920" height="1020" alt="{B4A76C7A-BF54-475D-BAFB-D16D5F7D0953}" src="https://github.com/user-attachments/assets/00b3ad7a-2d28-43f8-ad3e-e272d1c02e97" />
+<img src="screenshots/server_initial.png" width="350"/>
 
 
 ### Connection Process
@@ -84,25 +84,25 @@ This screenshot shows the application menu that allows the client to connect to 
 - Port input
 - Connect button
 - Connection status indicator
-<img width="480" height="1020" alt="WhatsApp Image 2026-06-10 at 23 32 25" src="https://github.com/user-attachments/assets/be11249f-f7da-4cf1-8112-3035837b5f7f" />
+<img src="screenshots/client_connecting.jpeg" width="350"/>
 
 ### Message Exchange
 This screenshot shows the exchanged messages on both the client and server sides of the application.
 
 - Client:
-<img width="480" height="1020" alt="WhatsApp Image 2026-06-10 at 23 32 29" src="https://github.com/user-attachments/assets/4b1a3e51-a452-4796-9b79-151ca7bdcd09" />
+<img src="screenshots/client_messages.jpeg" width="350"/>
 
 - Server:
-<img width="1920" height="1019" alt="{3AF973B8-3D10-46C8-A2C3-216386D8DAF2}" src="https://github.com/user-attachments/assets/134fc92b-7ce7-44e8-a6bb-f54a0512a15a" />
+<img src="screenshots/server_messages.png" width="350"/>
 
 ### Log Files
 This screenshot shows the log files stored on the server side.
 
 - last.txt (last sent message):
-<img width="674" height="251" alt="{A0FDD2B9-ECEF-4301-B701-758F0BE60C47}" src="https://github.com/user-attachments/assets/0c05063c-d81b-4b0e-ab54-2e4c58a80bf9" />
+<img src="screenshots/last_txt.png" width="350"/>
 
 - log.txt (whole communication):
-<img width="675" height="257" alt="{7BA45B1E-30EF-4177-A1BF-9859D99CD430}" src="https://github.com/user-attachments/assets/67645cb6-75ed-4ef7-8a32-9c36a818bf4d" />
+<img src="screenshots/log_txt.png" width="350"/>
 
 ## Project Information
 - Developed: 2026
