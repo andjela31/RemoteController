@@ -104,6 +104,8 @@ This screenshot shows the log files stored on the server side.
 - log.txt (whole communication):
 <img src="screenshots/log_txt.png" width="550" height="820"/>
 
+- Path to log files (Windows): C:\Users\[YOUR_USERNAME]\AppData\LocalLow\DefaultCompany\RemoteController_Server
+
 ## Project Information
 - Developed: 2026
 - Type: Academic Project
