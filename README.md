@@ -20,6 +20,15 @@ A client-server system developed in Unity, featuring real-time communication bet
 - Windows Standalone Build (Unity Server)
 - .NET networking libraries
 
+## Installation Requirements
+- Unity (LTS version recommended)
+- Android Build Support (Unity Module)
+  - Android SDK & NDK Tools
+  - OpenJDK
+- .NET (included with Unity)
+- Windows PC for server build
+- Android device for client application
+
 ## How It Works
 - The system consists of two separate Unity applications: a client (Android) and a server (Windows PC).
 - The server application is started first and listens for incoming TCP socket connections on a specific IP address and port.
