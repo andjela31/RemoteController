@@ -31,6 +31,15 @@ A client-server system developed in Unity, featuring real-time communication bet
 - The server can also send responses back to the client to confirm received commands or update the connection status.
 - Communication continues bi-directionally until the client disconnects or the server stops listening.
 
+## Installation Requirements
+- Unity (LTS version recommended)
+- Android Build Support (Unity Module)
+  - Android SDK & NDK Tools
+  - OpenJDK
+- .NET (included with Unity)
+- Windows PC for server build
+- Android device for client application
+
 ## How To Run The Application
 **1. Clone the repository to your local machine:**
 ```bash
@@ -112,4 +121,4 @@ This screenshot shows the log files stored on the server side.
 - Platforms: Android (Client), Windows (Server)
 
 ## Author
-- Andjela Djordjevic
+- gmail: andjeladjo@gmail.com
