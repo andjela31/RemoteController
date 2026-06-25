@@ -15,26 +15,17 @@ A client-server system developed in Unity, featuring real-time communication bet
 ## Technologies Used
 - Unity Engine (Client & Server applications)
 - C# (scripting and networking logic)
-- TCP Sockets (network communication)
+- TCP Sockets (client-server communication)
 - Android Build Support (Unity Client)
 - Windows Standalone Build (Unity Server)
 - .NET networking libraries
-
-## Installation Requirements
-- Unity (LTS version recommended)
-- Android Build Support (Unity Module)
-  - Android SDK & NDK Tools
-  - OpenJDK
-- .NET (included with Unity)
-- Windows PC for server build
-- Android device for client application
 
 ## How It Works
 - The system consists of two separate Unity applications: a client (Android) and a server (Windows PC).
 - The server application is started first and listens for incoming TCP socket connections on a specific IP address and port.
 - The client application runs on an Android device and connects to the server using its IP address and port number.
 - Once the connection is established, a persistent socket connection is maintained between client and server.
-- The system uses synchronous socket programming, meaning that sending and receiving operations are blocking and executed in a sequential manner.
+- The system uses synchronous TCP socket communication, where send and receive operations are blocking and executed sequentially.
 - The client sends control commands (messages) through the socket connection in real time.
 - The server receives the messages, parses them, and executes the corresponding actions inside the Unity application.
 - The server can also send responses back to the client to confirm received commands or update the connection status.
@@ -130,4 +121,5 @@ This screenshot shows the log files stored on the server side.
 - Platforms: Android (Client), Windows (Server)
 
 ## Author
-- gmail: andjeladjo@gmail.com
+- Andjela Djordjevic  
+- Email: andjeladjo@gmail.com
